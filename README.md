@@ -37,8 +37,10 @@
   
 <a href="https://dandelion-feet-b2f.notion.site/Meus-Estudos-73074a7cb9be4c019395ff01436965d4" target="_blank"><img  src="https://cdn.discordapp.com/attachments/1012186496251461722/1041455732299677776/patrinotion.jpg" height="500" width="520" target="_blank"></a>
 
-  
+### Avaliação do Dia:  
 <a href="https://dandelion-feet-b2f.notion.site/Meus-Estudos-73074a7cb9be4c019395ff01436965d4" target="_blank"><img src="https://cdn.discordapp.com/attachments/1012186496251461722/1041456586826186752/patrisnotion.jpg" height="775" width="926" target="_blank"></a>
+  
+### Data-Base:
   
 <a href="https://dandelion-feet-b2f.notion.site/Meus-Estudos-73074a7cb9be4c019395ff01436965d4" target="_blank"><img src="https://cdn.discordapp.com/attachments/1012186496251461722/1041458361872433213/databasenotion.jpg" height="761" width="940" target="_blank"></a>  
   
