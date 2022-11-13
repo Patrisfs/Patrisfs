@@ -35,7 +35,7 @@
   
 ## Organização de Estudos no Notion: 
   
-<a href="https://dandelion-feet-b2f.notion.site/Meus-Estudos-73074a7cb9be4c019395ff01436965d4" target="_blank"><img  src="https://cdn.discordapp.com/attachments/1012186496251461722/1041455732299677776/patrinotion.jpg" height="500" width="900" target="_blank"></a>
+<a href="https://dandelion-feet-b2f.notion.site/Meus-Estudos-73074a7cb9be4c019395ff01436965d4" target="_blank"><img  src="https://cdn.discordapp.com/attachments/1012186496251461722/1041455732299677776/patrinotion.jpg" height="500" width="520" target="_blank"></a>
 
   
 <a href="https://dandelion-feet-b2f.notion.site/Meus-Estudos-73074a7cb9be4c019395ff01436965d4" target="_blank"><img src="https://cdn.discordapp.com/attachments/1012186496251461722/1041456586826186752/patrisnotion.jpg" height="500" width="900" target="_blank"></a>
