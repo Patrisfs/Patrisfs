@@ -35,20 +35,3 @@
   ##
  
 </div> 
-<div align="left">
-
-## Organização de Estudos no Notion: 
-  - 1 a 2 Projetos (commit)
-  - 4-8 Horas de Estudo
-  - 2-3 Tópicos
-  - 1-2 Posts
-
-- Tarefas do Dia
-- Contéudo a Ser Estudado
-- Data-base:
-  - Todo contéudo classificado por máteria e com a data que será estudado
-
-
-
-
-</div>
