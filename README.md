@@ -1,10 +1,12 @@
 ## Patrick Freitas
 <div align="center">
-  <a href="https://github.com/Patrisfs">
-  <img  width="50%" height="48%" src="https://github-readme-stats.vercel.app/api?username=Patrisfs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img  width="45%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrisfs&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/patrisfs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrisfs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrisfs&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
+  
+  
+  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Patr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
