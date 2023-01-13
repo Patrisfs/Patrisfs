@@ -26,7 +26,7 @@
   <a href = "mailto:patrickfreitas6020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patrick-freitas-5bb062194/" target="_blank"><img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white target="_blank"></a> 
 
-  <a href="https://dandelion-feet-b2f.notion.site/Meus-Estudos-73074a7cb9be4c019395ff01436965d4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
+ 
 </div>
 <div>
 
