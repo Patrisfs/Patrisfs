@@ -1,5 +1,5 @@
 # Patrick Freitas
-<div align="center">
+<div align="left">
   <a href="https://github.com/patrisfs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrisfs&tokyonight&show_icons=true&theme=transparent"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrisfs&tokyonight&show_icons=true&theme=transparent"/>
